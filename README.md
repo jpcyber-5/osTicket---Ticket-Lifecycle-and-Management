@@ -65,9 +65,9 @@ This section demonstrates how tickets are created, assigned, and resolved in the
 
 ![Screenshot 2025-05-28 162611](https://github.com/user-attachments/assets/22a99b4d-033d-4a4c-ac6a-038fb8f1f422)
 
-![Screenshot 2025-05-28 163548](https://github.com/user-attachments/assets/5a3c6833-ff55-4ed8-8de1-39b730e8ccae)
+![Screenshot 2025-05-28 163548](https://github.com/user-attachments/assets/be537d00-583c-4473-9581-b2a7541c25c8)
 
-![Screenshot 2025-05-28 163751](https://github.com/user-attachments/assets/9424fc44-7c9f-4fb7-835e-46546e4e0083)
+![Screenshot 2025-05-28 163751](https://github.com/user-attachments/assets/b4cfe540-0b48-4d75-b1b4-78a30ebf8c9f)
 
 ---
 
