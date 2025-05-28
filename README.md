@@ -23,7 +23,7 @@ This section demonstrates how tickets are created, assigned, and resolved in the
 ---
 
 ### 📩 Ticket 1: Banking System Outage
-**Submitted By:** End-user  
+**Submitted By:** Karen (End-user)  
 **Issue:** _"Entire mobile/online banking system is down"_
 
 **Help Desk Agent (John):**
@@ -34,7 +34,7 @@ This section demonstrates how tickets are created, assigned, and resolved in the
   - Assigned To
 - ⚙️ Set properties:
   - SLA: `Sev-A (1 hour, 24/7)`  
-  - Department: `Online Banking`
+  - Department: `Jane (Online Banking)`
 - 🔒 Verify visibility restrictions after escalation
 - ✅ Resolve the ticket as **Jane**
 
