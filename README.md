@@ -25,7 +25,8 @@ This section demonstrates how tickets are created, assigned, and resolved in the
 
 ### 📩 Ticket: Banking System Outage
 **Submitted By:** Karen (End-user)  
-**Issue:** _"Entire mobile/online banking system is down"_
+🧾 **Issue:** _"Entire mobile/online banking system is down"_
+
 ![Screenshot 2025-05-28 161154](https://github.com/user-attachments/assets/ab87cce8-0221-4e51-8290-bb9e81584202)
 
 ![Screenshot 2025-05-28 161350](https://github.com/user-attachments/assets/f18e7eb4-3900-4ebe-93d1-101ca862c037)
