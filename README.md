@@ -34,6 +34,7 @@ This section demonstrates how tickets are created, assigned, and resolved in the
 
 ---
 **Help Desk Agent (John):**
+
 ![Screenshot 2025-05-28 161522](https://github.com/user-attachments/assets/31243d7d-9762-4547-9dc1-a0544b72284a)
 ![Screenshot 2025-05-28 161542](https://github.com/user-attachments/assets/b8f178c8-5ea5-4cfe-b486-94690f042b4c)
 
