@@ -22,11 +22,22 @@ This section demonstrates how tickets are created, assigned, and resolved in the
 
 ---
 
-### 📩 Ticket 1: Banking System Outage
+
+### 📩 Ticket: Banking System Outage
 **Submitted By:** Karen (End-user)  
 **Issue:** _"Entire mobile/online banking system is down"_
+![Screenshot 2025-05-28 161154](https://github.com/user-attachments/assets/ab87cce8-0221-4e51-8290-bb9e81584202)
 
+![Screenshot 2025-05-28 161350](https://github.com/user-attachments/assets/f18e7eb4-3900-4ebe-93d1-101ca862c037)
+
+![Screenshot 2025-05-28 161441](https://github.com/user-attachments/assets/4f1a064b-c6f6-45e5-adab-bfa8d21e24fb)
+
+---
 **Help Desk Agent (John):**
+![Screenshot 2025-05-28 161522](https://github.com/user-attachments/assets/31243d7d-9762-4547-9dc1-a0544b72284a)
+![Screenshot 2025-05-28 161542](https://github.com/user-attachments/assets/b8f178c8-5ea5-4cfe-b486-94690f042b4c)
+
+---
 - 🔍 Observe ticket properties:
   - Priority  
   - Department  
@@ -38,39 +49,6 @@ This section demonstrates how tickets are created, assigned, and resolved in the
 - 🔒 Verify visibility restrictions after escalation
 - ✅ Resolve the ticket as **Jane**
 
----
-
-### 🧾 Ticket 2: Adobe Upgrade
-**Submitted By:** End-user  
-**Issue:** _"Accounting department needs Adobe upgrade, broken"_
-
-**Help Desk Agent (John):**
-- 🔍 Observe ticket properties
-- ⚙️ Set properties:
-  - SLA: `Sev-B (4 hours, 24/7)`  
-  - Department: `Support`
-- ✅ Resolve ticket as John
-
----
-
-### 💻 Ticket 3: CFO Laptop Failure
-**Submitted By:** End-user  
-**Issue:** _"CFO’s laptop will no longer turn on"_
-
-**Help Desk Agent (John):**
-- 🔍 Observe ticket properties
-- ⚙️ Set properties:
-  - SLA: `Sev-B (4 hours, 24/7)`  
-  - Department: `Support`
-- ✅ Resolve ticket as John
-
----
-
-### 👁️‍🗨️ Permissions and Escalation
-- After assigning **Sev-A** to a **SysAdmins** ticket, John cannot access it.
-- 🛡️ Use **Admin Panel** to grant **View-access** to **SysAdmins**
-- 🔄 Switch back to **Agent Panel** to verify access
-- ⚠️ Note: Escalated tickets may be visible but not editable
 
 ---
 
@@ -88,9 +66,4 @@ This section demonstrates how tickets are created, assigned, and resolved in the
 
 ---
 
-## 🏁 Wrapping Up & Best Practices
-
-- ✉️ Test the email feature to understand communication flow
-- 🔁 Revisit the lab until the workflow becomes second nature
-- 📈 Repetition builds technical confidence and troubleshooting skill
 
