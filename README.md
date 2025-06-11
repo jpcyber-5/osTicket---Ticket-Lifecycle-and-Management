@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-## 🧾 osTicket - Tickets and Ticket Lifecycle
+## 🧾 osTicket -  Ticket Lifecycle
 
 This section demonstrates how tickets are created, assigned, and resolved in the osTicket help desk system. It also highlights ticket properties, SLA configurations, department visibility, and real-world intake scenarios.
 
